@@ -26,5 +26,9 @@ nbproject
 *.komodoproject
 .komodotools
 _notes
+<<<<<<< HEAD
 dwsync.xml'.idea/' 
 '.idea' 
+=======
+dwsync.xml'.idea' 
+>>>>>>> count-to-ten
